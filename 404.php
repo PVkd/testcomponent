@@ -6,7 +6,7 @@ CHTTP::SetStatus("404 Not Found");
 
 require($_SERVER["DOCUMENT_ROOT"]."/bitrix/header.php");
 
-$APPLICATION->SetTitle("Страница не найдена");
+$APPLICATION->SetTitle("пїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅ пїЅпїЅ пїЅпїЅпїЅпїЅпїЅпїЅпїЅ");
 
 $APPLICATION->IncludeComponent("bitrix:main.map", ".default", array(
 	"CACHE_TYPE" => "A",
@@ -19,4 +19,5 @@ $APPLICATION->IncludeComponent("bitrix:main.map", ".default", array(
 	false
 );
 echo "test";
+echo "tekjolmk;mklmpfew";
 require($_SERVER["DOCUMENT_ROOT"]."/bitrix/footer.php");?>
