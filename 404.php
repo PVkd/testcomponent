@@ -20,4 +20,5 @@ $APPLICATION->IncludeComponent("bitrix:main.map", ".default", array(
 );
 echo "test";
 echo "tekjolmk;mklmpfew";
+111111111111111111111111111111111111111111
 require($_SERVER["DOCUMENT_ROOT"]."/bitrix/footer.php");?>
